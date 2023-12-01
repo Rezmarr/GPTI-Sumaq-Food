@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/node@14.21.3" // Reemplaza X.Y.Z con la versión deseada de Node.js
+    }
+  ]
+}
