@@ -1,21 +1,21 @@
-## Food Ordering App
+## Sumaq Food
 
-### Features:
+### Características:
 
 ---
 
-##### Here's features included in this project
+##### Aquí están las características incluidas en este proyecto:
 
-- Add to cart functionality
-- Shopping cart functionality
-- Product Filtering functionality
-- Product page
-- Cart and checkout page
-- Contact page
-- Login and Register page
-- Awesome modern minimalist UI
+- Funcionalidad de agregar al carrito
+- Funcionalidad del carrito de compras
+- Funcionalidad de filtrado de productos
+- Página de producto
+- Página de carrito y pago
+- Página de contacto
+- Página de inicio de sesión y registro
+- Interfaz de usuario moderna y minimalista
 
-### Technologies Used:
+### Tecnologías utilizadas:
 
 ---
 
@@ -24,18 +24,13 @@
 3. ReactStrap
 4. CSS
 
-### How to start?
+### Cómo empezar?
 
 ---
 
-##### To start the project along with me just download the start-up file and run available script
-
 ```javascript
-// first install all necessary dependencies
 
 npm i
-
-// next run
 
 npm start
 
